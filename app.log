@@ -1,0 +1,40 @@
+{"level":"error","message":"Tentativa de pedido sem itens","timestamp":"2026-10-14T23:36:35.423Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-14T23:53:59.896Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-14T23:55:43.297Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:07:06.811Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:07:23.003Z"}
+{"level":"error","message":"Erro ao processar pedido: Cliente obrigatório","timestamp":"2026-10-15T00:07:23.683Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:08:34.158Z"}
+{"level":"error","message":"Erro ao processar pedido: Carrinho vazio","timestamp":"2026-10-15T00:08:34.335Z"}
+{"level":"error","message":"Erro ao processar pedido: Dados do cartão incompletos","timestamp":"2026-10-15T00:08:35.750Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:08:59.246Z"}
+{"level":"error","message":"Erro ao processar pedido: Carrinho vazio","timestamp":"2026-10-15T00:09:00.371Z"}
+{"level":"error","message":"Erro ao processar pedido: Dados do cartão incompletos","timestamp":"2026-10-15T00:09:00.498Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:12:51.900Z"}
+{"level":"error","message":"Erro ao processar pedido: Cliente obrigatório","timestamp":"2026-10-15T00:15:38.385Z"}
+{"level":"error","message":"Erro ao processar pedido: Cliente obrigatório","timestamp":"2026-10-15T00:17:14.922Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:21:00.910Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:24:28.230Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:25:17.297Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:25:36.088Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:25:39.609Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:25:47.398Z"}
+{"level":"error","message":"Erro ao processar pedido: Cliente obrigatório","timestamp":"2026-10-15T00:26:51.368Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:31:27.164Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:32:46.133Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:33:01.036Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:36:01.007Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:53:55.826Z"}
+{"level":"info","message":"Servidor iniciado na porta 3000","timestamp":"2026-10-15T00:54:22.437Z"}
+{"level":"error","message":"Erro ao processar pedido: Carrinho vazio","timestamp":"2026-10-15T00:57:13.019Z"}
+{"level":"error","message":"Erro ao processar pedido: Cliente obrigatório","timestamp":"2026-10-15T00:58:08.603Z"}
+{"level":"error","message":"Erro ao processar pedido: Cliente obrigatório","timestamp":"2026-10-15T00:59:09.318Z"}
+{"level":"error","message":"Erro ao processar pedido: Cliente obrigatório","timestamp":"2026-10-15T01:00:18.798Z"}
+{"level":"error","message":"Erro ao processar pedido: Carrinho vazio","timestamp":"2026-10-15T01:00:46.793Z"}
+{"level":"info","message":"Processando cartão final 5678","timestamp":"2026-10-15T01:01:11.004Z"}
+{"level":"info","message":"Ethereal Mail configurado: ndrko6qfpibhfalj@ethereal.email","timestamp":"2026-10-15T01:01:14.451Z"}
+{"level":"info","message":"E-mail de teste enviado para teste@example.com","timestamp":"2026-10-15T01:01:18.828Z"}
+{"level":"info","message":"Processando cartão final 5678","timestamp":"2026-10-15T01:01:43.404Z"}
+{"level":"info","message":"E-mail de teste enviado para teste@example.com","timestamp":"2026-10-15T01:01:47.678Z"}
+{"level":"info","message":"Processando cartão final 5678","timestamp":"2026-10-15T01:03:35.696Z"}
+{"level":"error","message":"Erro ao processar pedido: Cartão recusado","timestamp":"2026-10-15T01:03:35.697Z"}
